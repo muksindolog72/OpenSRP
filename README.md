@@ -1,2 +1,0 @@
-# OpenSRP
-OpenSRP Modified
